@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesender",
+        "uuid": 11732990,
+        "checksum": "8whc48"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
